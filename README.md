@@ -8,6 +8,10 @@ cryptographically secure random numbers.
 By seeding it with a Chainlink VRF result that is requested **only once for the project**,  
 it can be used to demonstrate that the random numbers are **not cherry-picked**.
 
+# Requirements
+
+- C++98 and above compiler. 
+
 # Installation
 
 Just copy and paste and include `include/chainrand.h` into your project.
