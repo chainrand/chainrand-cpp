@@ -10,7 +10,7 @@ it can be used to demonstrate that the random numbers are **not cherry-picked**.
 
 # Requirements
 
-- C++98 and above compiler. 
+C++98 and above compiler. 
 
 # Installation
 
